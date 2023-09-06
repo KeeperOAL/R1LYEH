@@ -18,6 +18,18 @@
         "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
     },
     {
+        "from": "Carolyn Fern",
+        "to": ["username", "a"],
+        "title": "Nome Gold Rush Expedition",
+        "body": "Location and what not + schedule"
+    },
+    {
+        "from": "Carolyn Fern",
+        "to": ["username", "a"],
+        "title": "re:Nome Gold Rush Expedition",
+        "body": "List of students"
+    },
+    {
         "from": "Mike",
         "to": ["admin"],
         "title": "wtf are you kidding me?",
