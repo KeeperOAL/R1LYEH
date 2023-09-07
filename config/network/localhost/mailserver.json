@@ -19,13 +19,13 @@
     },
     {
         "from": "Carolyn Fern",
-        "to": ["ProfArmitage", "a"],
+        "to": ["profArmitage", "a"],
         "title": "Nome Gold Rush Expedition",
         "body": "Location and what not + schedule"
     },
     {
         "from": "Carolyn Fern",
-        "to": ["ProfArmitage", "a"],
+        "to": ["profArmitage", "a"],
         "title": "re:Nome Gold Rush Expedition",
         "body": "List of students"
     },
