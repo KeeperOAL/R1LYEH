@@ -32,6 +32,16 @@
             "<img src=\"https://thispersondoesnotexist.com/image\" title=\"tHeY aRe NoT hUmAn\" style=\"width: 10rem; max-width: 100%;\">"
         ]
     },
+
+    
+    "whereami": {
+        "location": ["localhost"],
+        "help": "Display the current location from where you're logged in.",
+        "message": [
+            "<p class=shimmer'>Aniak, Alaska</p>",
+        ]
+    },
+    
     "artifact": {},
     "decrypt": {},
     "identify": {}
