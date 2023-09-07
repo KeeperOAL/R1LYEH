@@ -26,15 +26,6 @@
         ]
     },
 
-    "whereami": {
-        "location": ["localhost"],
-        "help": "Display the current location from where you're logged in.",
-        "protection": ["profArmitage"],
-        "message": [
-            "<p class=shimmer'>Aniak, Alaska</p>",
-        ]
-    },
-    
     "artifact": {},
     "decrypt": {},
     "identify": {}
