@@ -25,15 +25,9 @@
             "System successfully corrupted!"
         ]
     },
-    "target.exe": {
-        "location": ["127.0.0.1", "localhost"],
-        "message": [
-            "This <abbr title=\"tHeY aRe NoT hUmAn\"><s>person</s></abbr> is your target:",
-            "<img src=\"https://thispersondoesnotexist.com/image\" title=\"tHeY aRe NoT hUmAn\" style=\"width: 10rem; max-width: 100%;\">"
-        ]
-    },
 
     "whereami": {
+        "location": ["localhost"],
         "help": "Display the current location from where you're logged in.",
         "protection": ["profArmitage"],
         "message": [
