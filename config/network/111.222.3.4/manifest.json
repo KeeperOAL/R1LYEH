@@ -1,8 +1,8 @@
 {
     "serverAddress": "111.222.3.4",
-    "serverName": "FreeNode",
-    "iconName": "world.svg",
-    "terminalID": "freenode",
+    "serverName": "Node DY3043",
+    "iconName": "config/network/localhost/Annotation 2023-08-24 173118.png",
+    "terminalID": "DY3034",
     "defaultUser": {
         "userId": "user",
         "password": "",
