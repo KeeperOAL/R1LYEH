@@ -290,12 +290,6 @@ system = {
         } );
     },
 
-    echo( args ) {
-        return new Promise( ( resolve ) => {
-            resolve( args.join( " " ) );
-        } );
-    },
-
     help( args ) {
         return new Promise( ( resolve ) => {
             const programs = allowedSoftwares();
@@ -314,8 +308,6 @@ system = {
                 resolve( [ "Usage:", "> clear", "The clear command will completely wipeout the entire screen, but it will not affect the history." ] );
             } else if ( args[ 0 ] === "date" ) {
                 resolve( [ "Usage:", "> date", "The date command will print the current date-time into terminal." ] );
-            } else if ( args[ 0 ] === "echo" ) {
-                resolve( [ "Usage:", "> echo args", "The echo command will print args into terminal." ] );
             } else if ( args[ 0 ] === "help" ) {
                 resolve( [ "Usage:", "> help", "The default help message. It will show some of the available commands in a server." ] );
             } else if ( args[ 0 ] === "login" ) {
@@ -459,12 +451,6 @@ system = {
                 resolve( `Server ${ serverInfo.serverAddress } (${ serverInfo.serverName }) can be reached` );
             } )
                 .fail( () => reject( new AddressNotFoundError( args ) ) );
-        } );
-    },
-
-    telnet() {
-        return new Promise( ( _, reject ) => {
-            reject( new Error( "telnet is unsecure and is deprecated - use ssh instead" ) );
         } );
     },
 
