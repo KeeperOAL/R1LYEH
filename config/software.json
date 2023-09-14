@@ -28,7 +28,7 @@
     "whereami": {
         "help": "Display the current location from where you're logged in.",
         "message": [
-            "<p class=shimmer>Aniak, Alaska</p>"
+            "<p class=shimmer>--- Aniak, Alaska ---</p>"
         ]
     },
     "artifact": {
