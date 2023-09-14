@@ -1,6 +1,6 @@
 {
     "demo.exe": {
-        "secretCommand": true,
+        "location": ["11.152.9.6"],
         "help": "Demonstrate some rendering features",
         "clear": true,
         "message": [
@@ -13,7 +13,7 @@
         ]
     },
     "cdata.exe": {
-        "secretCommand": true,
+        "location": ["11.152.9.6"],
         "protection": ["admin"],
         "delayed": 2000,
         "message": [
