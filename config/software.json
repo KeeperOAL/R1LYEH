@@ -31,6 +31,8 @@
             "<p class=shimmer>Aniak, Alaska</p>"
         ]
     },
-    "artifact": {},
+    "artifact": {
+        "location": ["fbi.gov"]
+    },
     "decrypt": {}
 }
