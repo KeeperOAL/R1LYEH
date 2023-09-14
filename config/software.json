@@ -1,5 +1,6 @@
 {
     "demo.exe": {
+        "secretCommand": true,
         "help": "Demonstrate some rendering features",
         "clear": true,
         "message": [
@@ -12,6 +13,7 @@
         ]
     },
     "cdata.exe": {
+        "secretCommand": true,
         "protection": ["admin"],
         "delayed": 2000,
         "message": [
