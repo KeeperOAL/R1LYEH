@@ -1,23 +1,23 @@
 [
     {
-        "from": "YKMG",
+        "from": "temp user",
         "to": ["8A73B5", "user"],
-        "title": "Mi-go info",
-        "body": "Vague exposition dump"
+        "title": "M-Cell re-report",
+        "body": "Found the winged ver. along the stream. Idk if agent Marcus had updated you about the brain containers, but apparently there's a limit in the range - up to 200 miles - with the version we got. Obv we're getting the short end of the stick here with the deal, but I assume DG got some plans to deal with it later down the line. For now, proceed with the set-up clean-up as usual.    And contact D-cell when you can; you're their in with the database, dude.    - YKMG "
     },
     
     {
-        "from": "YKMG",
+        "from": "temp user",
         "to": ["8A73B5", "user"],
         "title": "the Thing",
-        "body": "lorum ipsum ykmg etc etc.    admin"
+        "body": "Oh, another thing about what we've found along the stream.    info dump etc.    - YKMG"
     },
 
     {
-        "from": "admin",
+        "from": "Akeley",
         "to": ["8A73B5", "user"],
         "title": "Weird audio for review",
-        "body": "Picked this up recently from [third location], [some1else] wanted you to check it over just in case.  <audio controls src='config/network/fbi.gov/tpa.mp3'>    Email the report back to [DY] - Akeley"
+        "body": "Picked this up recently from Ruby, Alaska. Higher-up wanted you to check it over just in case.  <audio controls src='config/network/fbi.gov/tpa.mp3'>    Email the report back to [DY]."
     },
     
     {
