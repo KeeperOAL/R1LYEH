@@ -17,7 +17,7 @@
         "from": "admin",
         "to": ["8A73B5", "user"],
         "title": "Weird audio for review",
-        "body": "Check this out.  <audio controls src='config/network/fbi.gov/The Paper Chase - It's Out There and It's Gonna Get You (from Now You Are One Of Us) [Q_cIvLwXdh0].mp3'>"
+        "body": "Check this out.  <audio controls src='The Paper Chase - It's Out There and It's Gonna Get You (from Now You Are One Of Us) [Q_cIvLwXdh0].mp3'>"
     },
     
     {
