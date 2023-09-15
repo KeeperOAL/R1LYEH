@@ -1,44 +1,26 @@
 [
     {
-        "from": "Traveller",
-        "to": ["8A73B5", "a"],
-        "title": "Do not Open",
-        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    },
-    {
-        "from": "Software",
-        "to": ["8A73B5", "a"],
-        "title": "undefined",
-        "body": "001100101 011000101 0110 10 01001 01 01110 1001010101"
-    },
-    {
-        "from": "Josephus A. Miller",
-        "to": ["8A73B5", "a"],
-        "title": "Contrato n22",
-        "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
+        "from": "Carolyn Fern",
+        "to": ["profArmitage", "a"],
+        "title": "Nome (ish) exepdition",
+        "body": "Hey hoover, checking in if youre still up for the expedition. They moved the local from Nome to a ghost town like, 50 sth miles east there instead (towns called Bluff - I cant find anything about it so chances are you wont as well, but as usual, Im prepared to be surprised) so you dont need to worry about whatever situation there you were trying to avoid there.    Anyway, I heard that Francis is going as well so you know :)    Get back to me asap, looking forward to our joint experiment on Thursday!"
     },
     {
         "from": "Carolyn Fern",
         "to": ["profArmitage", "a"],
-        "title": "Nome Gold Rush Expedition",
-        "body": "Location and what not + schedule"
-    },
-    {
-        "from": "Carolyn Fern",
-        "to": ["profArmitage", "a"],
-        "title": "re:Nome Gold Rush Expedition",
-        "body": "List of students"
+        "title": "Bluff Expedition",
+        "body": "Heres the list of attendance that you asked for.    Madision Jonhson    Perry Orchard    Sophie Miller    William Yazzie    Francis Morgan    Warren Rice"
     },
     {
         "from": "Wilmarth, Albert",
         "to": ["admin"],
         "title": "wtf are you kidding me?",
-        "body": "Recent security breech from [sdfghj] [from third location, Alaska.]"
+        "body": "Dude did you catch the breach yesterday night? Managed to track the address to a remote location in Ruby??? Been there once on a hunting trip with a friend, and that's about all that I know. We should go shooting tooting at some point btw :)    Anyhow, fix up the thing man. Higher-ups been on my ass about it the entire morning :/"
     },
     {
         "from": "Wilmarth, Albert",
         "to": ["admin"],
         "title": "New login?",
-        "body": "Something about the alt."
+        "body": "Hey, just checking in... You apparently logged in around the same time yesterday, was that like actually you ,':/"
     }
 ]
