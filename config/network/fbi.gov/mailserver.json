@@ -3,14 +3,14 @@
         "from": "temp user",
         "to": ["8A73B5", "user"],
         "title": "M-Cell re-report",
-        "body": "Found the winged ver. along the stream. Idk if agent Marcus had updated you about the brain containers, but apparently there's a limit in the range - up to 200 miles - with the one we got. Obv we're getting the short end of the stick here with the deal, but I assume DG got some plans to deal with it later down the line. For now, proceed with the set-up clean-up as usual.    And contact D-cell when you can; you're their in with the database, dude.    - YKMG "
+        "body": "Found the <span class=desync>[REDACTED]</span> along the stream; mf got wings this time instead of just scuttering around. Idk if agent Marcus has updated you about the brain containers, but R&D finally found a hard limit wrt the range: up to 200 miles with the one we got. Obv we're getting the short end of the stick here, but I assume DG got some plans to clean up the deal later down the line. For now, proceed with the set-up clean-up as usual.    P/s: contact D-cell when you can; they need a temp agent.    - YKMG "
     },
     
     {
         "from": "temp user",
         "to": ["8A73B5", "user"],
-        "title": "the Thing",
-            "body": "Oh, another thing about what we've found along the stream. You remember the black slime from operation Mound? Yeah, we found one of that in the region as well. Seemed to have eaten a few passerbys. We managed to free the corpse (burning it works as usual, at least) but it fleed before we can do more damage. Chances are it's being raised by [REDACTED] so it's not like we could do much anyway.    Just wanted to give you a head's up in case you get sent to do field work.    - YKMG"
+        "title": "the Thing(tm)",
+        "body": "Oh, another thing (ha) about what we've found along the stream. You remember the black slime from operation Mound? Yeah, we found another one here as well. Seemed to have eaten a few passerbys; lots of vacationing hunters this time of year ig. We managed to free the half digested corpses if nothing else (burning the mf works as usual) but it fled before we could do anymore more damage. Chances are it's being raised by [REDACTED] so it's not like we could do much anyway.    Just wanted to give you a head's up in case you get sent to do field work.    - YKMG"
     },
 
     {
@@ -24,6 +24,6 @@
         "from": "Agent Clover",
         "to": ["8A73B5", "user"],
         "title": "New Mission",
-        "body": "Terminate agent Elys at your earliest convinient."
+        "body": "Terminate agent Cayden at your earliest convinient."
     }
 ]
