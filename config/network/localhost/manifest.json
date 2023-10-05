@@ -11,7 +11,7 @@
     "randomSeed": false,
     "initialHistory": {
         "user": [
-            "login admin@admin"
+            "login admin:admin"
         ],
         "admin": [
             "ping fbi.gov"
