@@ -37,5 +37,7 @@
     "artifact": {
         "location": ["fbi.gov"]
     },
-    "decrypt": {}
+    "decrypt": {
+        "location": ["fbi.gov"]
+    }
 }
