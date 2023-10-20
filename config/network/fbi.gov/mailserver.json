@@ -3,21 +3,21 @@
         "from": "temp user",
         "to": ["8A73B5", "user"],
         "title": "M-Cell re-report",
-        "body": "Found the [REDACTED] along the stream; mf got wings this time instead of just scuttering around. Idk if agent Marcus has updated you about the brain containers, but R&D finally found a hard limit wrt the range: up to 200 miles with the one we got. Obv we're getting the short end of the stick here, but I assume DG got some plans to clean up the deal later down the line. For now, proceed with the set-up clean-up as usual.    P/s: contact D-cell when you can; they need a temp agent.    - YKMG "
+        "body": "We found the [REDACTED] along the stream (well, closer in the forest); mf got wings this time instead of just scuttering around. Idk if agent Marcus has updated you about the brain containers, but R&D finally figured out the hard limit wrt the range: up to 200 miles with the one we got. Obv we're getting the short end of the stick here, but I assume DG got some plans to clean up the deal later down the line. For now, we're proceeding with the clean-up as usual.    P/s: contact C-cell when you can; they need a temp agent.    - YKMG "
     },
     
     {
         "from": "temp user",
         "to": ["8A73B5", "user"],
         "title": "the Thing(tm)",
-        "body": "Oh, another thing (ha) about what we've found along the stream. You remember the black slime from operation Mound? Yeah, we found another one here as well. Seemed to have eaten a few passerbys; lots of vacationing hunters this time of year ig. We managed to free the half digested corpses if nothing else (burning the mf works as usual) but it fled before we could do anymore more damage. Chances are it's being raised by [REDACTED] so it's not like we could do much anyway.    Just wanted to give you a head's up in case you get sent to do field work.    - YKMG"
+        "body": "Oh, another thing (ha) about what we've found. You remember the black slime from operation Mound? Yeah, we found another one here as well. Seemed to have eaten a few passerbys, maybe even half a car; lots of vacationing hunters this time of year ig. We managed to free some of the kinda digested corpses if nothing else (burning the mf works as usual) but it fled before we could do anymore more damage. Chances are it's being raised by [REDACTED] so it's not like we could do much anyway.    Just wanted to give you a head's up in case you get sent to do field work.    - YKMG"
     },
 
     {
         "from": "Akeley",
         "to": ["8A73B5", "user"],
         "title": "Audio review",
-        "body": "A-Cell want you to check this out. Think they were on edge because of the surrounded sound.  <audio controls src='config/network/fbi.gov/tpa.mp3'>    -----    Audio transcript follow:    -----    Hi, um, I-I-I-I don’t have a whole lot of- of time. Um, and, and… oh man, I don’t know where to start. They’re-they’re-they’re, uh, they’re-, they’re-, um, they’ll triangulate on this position [Ruby, Alaska] really really soon, um.    Okay, um, um, okay, what- what we think of their… uh, they’re, they’re extra-dimensional beings [COMMENT REDACTED] that... an earlier precursor of the... [previous agent from DG?] made contact with… Uh, they-they are not what they claim to be. Uh, they have infiltrated a lot of, uh, a-a-a lot of aspect of-of-of... [ - the government, definitely at least a friendly ally]    uh, di- disasters that are coming. They, uh, they’re, uh- I’m sorry...    -----​    Transcript end.    -----    Email the report back to your contact in Alaska (the newer contact btw.)    - Akeley"
+        "body": "A-Cell want you to check this out.  <audio controls src='config/network/fbi.gov/tpa.mp3'>    -----    Audio transcript follow:    -----    Hi, um, I-I-I-I don’t have a whole lot of- of time. Um, and, and… oh man, I don’t know where to start. They’re-they’re-they’re, uh, they’re-, they’re-, um, they’ll triangulate on this position [Ruby, Alaska] really really soon, um.    Okay, um, um, okay, what- what we think of their… uh, they’re, they’re extra-dimensional beings [COMMENT REDACTED] that... an earlier precursor of the... [previous agent from DG?] made contact with… Uh, they-they are not what they claim to be. Uh, they have infiltrated a lot of, uh, a-a-a lot of aspect of-of-of... [ - the government, definitely at least a friendly ally]    uh, di- disasters that are coming.    -----​    Transcript end.    -----    Email the report back to your contact in Alaska (the updated contact btw.)    - Akeley"
     },
     
     {
@@ -25,5 +25,23 @@
         "to": ["8A73B5", "user"],
         "title": "New Mission",
         "body": "Terminate agent Cayden at your earliest convinient."
+    },
+    {
+        "from": "Agent Clover",
+        "to": ["8A73B5", "user"],
+        "title": "Mission Completed",
+        "body": "Agent Cayden has been confirmed dead. Please report to front desk for your reward."
+    },
+    {
+        "from": "Agent Clover",
+        "to": ["8A73B5", "user"],
+        "title": "Re: Mission Completed",
+        "body": "Despite your involvement (or lack thereof), forensic has confirmed the remains as agent Cayden. Please report to front desk for your reward."
+    },
+     {
+        "from": "temp user",
+        "to": ["8A73B5", "user"],
+        "title": "Re: C-cell replacement",
+        "body": "To answer your question, yes agent Cayden was KIA. In our defense, he was trying to leak confidential documents regarding the program, and the slime was hungry anyway. We have reported this through the proper channels.    - YKMG"
     }
 ]
