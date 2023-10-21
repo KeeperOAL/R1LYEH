@@ -21,6 +21,6 @@
         "from": "???",
         "to": ["YKMG", "a"],
         "title": "Re: Memory request",
-        "body": "<video width='560' height='315' src='https://www.youtube.com/embed/01CNfk8b9k8?si=HzcjOpyyQjRgG3cy'></video>"
+        "body": "<video width='560' height='315' color='transparent' src='https://www.youtube.com/embed/01CNfk8b9k8?si=HzcjOpyyQjRgG3cy'></video> <video width='560' height='315' color='transparent' src='https://youtu.be/01CNfk8b9k8?si=s5n5X6hhx3mcVnoU'></video>"
     }
 ]
