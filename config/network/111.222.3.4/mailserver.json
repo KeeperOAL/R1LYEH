@@ -21,6 +21,6 @@
         "from": "???",
         "to": ["YKMG", "a"],
         "title": "Re: Memory request",
-        "body": "<video src='https://va.media.tumblr.com/tumblr_s2vpm2xpcP1a06zbj_720.mp4' width='640' height='480' frameborder='0' controls></video>"
+        "body": "<video width='640' height='480' frameborder='0' controls><source src='https://va.media.tumblr.com/tumblr_s2vpm2xpcP1a06zbj_720.mp4'></video>"
     }
 ]
