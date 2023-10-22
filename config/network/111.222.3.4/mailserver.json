@@ -22,5 +22,11 @@
         "to": ["YKMG", "a"],
         "title": "Re: Memory request",
         "body": "<video width='640' height='480' frameborder='0' controls><source src='https://va.media.tumblr.com/tumblr_s2vpm2xpcP1a06zbj_720.mp4'></video>"
+    },
+    {
+        "from": "???",
+        "to": ["YKMG", "a"],
+        "title": "[unread] Scan update, calibration time, and so on",
+        "body": "Hey, something's gone wrong with the wiring. Long story short, we're going to need them to be active for a while longer for the full calibration process. It's up to you how you want to do it of course, but we hope we will get all that we need in the next day or two.    We wish you the best with your test subjects."
     }
 ]
