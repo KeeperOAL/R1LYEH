@@ -8,8 +8,14 @@
     {
         "from": "Carolyn Fern",
         "to": ["profArmitage", "a"],
-        "title": "[unread] Bluff Expedition",
+        "title": "Bluff Expedition",
         "body": "Hey hoover, eres the list of attendants that you asked for.    William Dyer    James Allison    Abigail Foreman    Cassandra Hack    Francis Morgan (<3)    Warren Rice    Lola Hayes    Annie Knowby    Trish Scarborough    Katherine Pryde"
+    },
+    {
+        "from": "Carolyn Fern",
+        "to": ["profArmitage", "a"],
+        "title": "If you're there",
+        "body": "Hey, just checking in to see how your recovering process is going. Just to say it again, I'm glad that you got out of whatever break-in alive.    We miss you here.    Get well soon, love."
     },
     {
         "from": "Wilmarth, Albert",
